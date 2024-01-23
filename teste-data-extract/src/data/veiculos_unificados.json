@@ -1,0 +1,1058 @@
+[
+  {
+    "data_venda": "2022-01-01",
+    "id_marca": 1,
+    "marca": "Fiat",
+    "vendas": 40,
+    "valor_do_veiculo": 29000,
+    "nome": "Mobi"
+  },
+  {
+    "data_venda": "2022-01-01",
+    "id_marca": 1,
+    "marca": "Fiat",
+    "vendas": 2,
+    "valor_do_veiculo": 49000,
+    "nome": "argo"
+  },
+  {
+    "data_venda": "2022-01-01",
+    "id_marca": 1,
+    "marca": "Fiat",
+    "vendas": 3,
+    "valor_do_veiculo": 19000,
+    "nome": "Uno"
+  },
+  {
+    "data_venda": "2022-01-01",
+    "id_marca": 2,
+    "marca": "Volkswagen",
+    "vendas": 35,
+    "valor_do_veiculo": 35000,
+    "nome": "Up"
+  },
+  {
+    "data_venda": "2022-01-01",
+    "id_marca": 3,
+    "marca": "Kia",
+    "vendas": 42,
+    "valor_do_veiculo": 32000,
+    "nome": "Picanto"
+  },
+  {
+    "data_venda": "2022-01-01",
+    "id_marca": 2,
+    "marca": "Volkswagen",
+    "vendas": 2,
+    "valor_do_veiculo": 40000,
+    "nome": "Gol"
+  },
+  {
+    "data_venda": "2022-01-01",
+    "id_marca": 7,
+    "marca": "Mitsubishi",
+    "vendas": 4,
+    "valor_do_veiculo": 60000,
+    "nome": "Lancer"
+  },
+  {
+    "data_venda": "2022-01-01",
+    "id_marca": 2,
+    "marca": "Volkswagen",
+    "vendas": 1,
+    "valor_do_veiculo": 35000,
+    "nome": "Kombi"
+  },
+  {
+    "data_venda": "2022-01-01",
+    "id_marca": 9,
+    "marca": "Chevrolet ",
+    "vendas": 2,
+    "valor_do_veiculo": 45200,
+    "nome": "onix"
+  },
+  {
+    "data_venda": "2022-01-01",
+    "id_marca": 10,
+    "marca": "JaC Motors",
+    "vendas": 1,
+    "valor_do_veiculo": 270000,
+    "nome": "E-J7"
+  },
+  {
+    "data_venda": "2022-01-01",
+    "id_marca": 11,
+    "marca": "Renault",
+    "vendas": 5,
+    "valor_do_veiculo": 70000,
+    "nome": "Captur"
+  },
+  {
+    "data_venda": "2022-02-01",
+    "id_marca": 1,
+    "marca": "Fiat",
+    "vendas": 1,
+    "valor_do_veiculo": 8000,
+    "nome": "Palio"
+  },
+  {
+    "data_venda": "2022-02-01",
+    "id_marca": 2,
+    "marca": "Volkswagen",
+    "vendas": 40,
+    "valor_do_veiculo": 35000,
+    "nome": "Up"
+  },
+  {
+    "data_venda": "2022-02-01",
+    "id_marca": 1,
+    "marca": "Fiat",
+    "vendas": 52,
+    "valor_do_veiculo": 29000,
+    "nome": "Mobi"
+  },
+  {
+    "data_venda": "2022-02-01",
+    "id_marca": 3,
+    "marca": "Kia",
+    "vendas": 30,
+    "valor_do_veiculo": 36000,
+    "nome": "Picanto"
+  },
+  {
+    "data_venda": "2022-02-01",
+    "id_marca": 5,
+    "marca": "Toyota",
+    "vendas": 15,
+    "valor_do_veiculo": 45000,
+    "nome": "Yaris"
+  },
+  {
+    "data_venda": "2022-02-01",
+    "id_marca": 6,
+    "marca": "Nissan",
+    "vendas": 2,
+    "valor_do_veiculo": 28000,
+    "nome": "March"
+  },
+  {
+    "data_venda": "2022-02-01",
+    "id_marca": 7,
+    "marca": "Mitsubishi",
+    "vendas": 7,
+    "valor_do_veiculo": 240000,
+    "nome": "L200"
+  },
+  {
+    "data_venda": "2022-02-01",
+    "id_marca": 2,
+    "marca": "Volkswagen",
+    "vendas": 6,
+    "valor_do_veiculo": 30000,
+    "nome": "Gol"
+  },
+  {
+    "data_venda": "2022-02-01",
+    "id_marca": 3,
+    "marca": "Kia",
+    "vendas": 4,
+    "valor_do_veiculo": 41000,
+    "nome": "Cerato"
+  },
+  {
+    "data_venda": "2022-02-01",
+    "id_marca": 10,
+    "marca": "JaC Motors",
+    "vendas": 6,
+    "valor_do_veiculo": 145000,
+    "nome": "E-JS1"
+  },
+  {
+    "data_venda": "2022-02-01",
+    "id_marca": 11,
+    "marca": "Renault",
+    "vendas": 3,
+    "valor_do_veiculo": 60000,
+    "nome": "Duster"
+  },
+  {
+    "data_venda": "2022-03-01",
+    "id_marca": 1,
+    "marca": "Fiat",
+    "vendas": 1,
+    "valor_do_veiculo": 10000,
+    "nome": "Uno"
+  },
+  {
+    "data_venda": "2022-03-01",
+    "id_marca": 2,
+    "marca": "Volkswagen",
+    "vendas": 30,
+    "valor_do_veiculo": 35000,
+    "nome": "Up"
+  },
+  {
+    "data_venda": "2022-03-01",
+    "id_marca": 3,
+    "marca": "Kia",
+    "vendas": 25,
+    "valor_do_veiculo": 145000,
+    "nome": "Picanto"
+  },
+  {
+    "data_venda": "2022-03-01",
+    "id_marca": 4,
+    "marca": "Peugeot ",
+    "vendas": 20,
+    "valor_do_veiculo": 79000,
+    "nome": "208"
+  },
+  {
+    "data_venda": "2022-03-01",
+    "id_marca": 1,
+    "marca": "Fiat",
+    "vendas": 30,
+    "valor_do_veiculo": 30000,
+    "nome": "Mobi"
+  },
+  {
+    "data_venda": "2022-03-01",
+    "id_marca": 2,
+    "marca": "Volkswagen",
+    "vendas": 1,
+    "valor_do_veiculo": 28000,
+    "nome": "Gol"
+  },
+  {
+    "data_venda": "2022-03-01",
+    "id_marca": 7,
+    "marca": "Mitsubishi",
+    "vendas": 1,
+    "valor_do_veiculo": 75000,
+    "nome": "Lancer"
+  },
+  {
+    "data_venda": "2022-03-01",
+    "id_marca": 8,
+    "marca": "Subaru",
+    "vendas": 2,
+    "valor_do_veiculo": 300000,
+    "nome": "Forester"
+  },
+  {
+    "data_venda": "2022-03-01",
+    "id_marca": 9,
+    "marca": "Chevrolet ",
+    "vendas": 3,
+    "valor_do_veiculo": 45000,
+    "nome": "onix"
+  },
+  {
+    "data_venda": "2022-03-01",
+    "id_marca": 10,
+    "marca": "JaC Motors",
+    "vendas": 5,
+    "valor_do_veiculo": 25000,
+    "nome": "J5"
+  },
+  {
+    "data_venda": "2022-03-01",
+    "id_marca": 11,
+    "marca": "Renault",
+    "vendas": 1,
+    "valor_do_veiculo": 30000,
+    "nome": "Sandero"
+  },
+  {
+    "data_venda": "2022-04-01",
+    "id_marca": 1,
+    "marca": "Fiat",
+    "vendas": 40,
+    "valor_do_veiculo": 28000,
+    "nome": "Mobi"
+  },
+  {
+    "data_venda": "2022-04-01",
+    "id_marca": 2,
+    "marca": "Volkswagen",
+    "vendas": 45,
+    "valor_do_veiculo": 30000,
+    "nome": "Up"
+  },
+  {
+    "data_venda": "2022-04-01",
+    "id_marca": 3,
+    "marca": "Kia",
+    "vendas": 30,
+    "valor_do_veiculo": 26000,
+    "nome": "Picanto"
+  },
+  {
+    "data_venda": "2022-04-01",
+    "id_marca": 4,
+    "marca": "Peugeot ",
+    "vendas": 25,
+    "valor_do_veiculo": 85000,
+    "nome": "208"
+  },
+  {
+    "data_venda": "2022-04-01",
+    "id_marca": 1,
+    "marca": "Fiat",
+    "vendas": 1,
+    "valor_do_veiculo": 12000,
+    "nome": "Palio"
+  },
+  {
+    "data_venda": "2022-04-01",
+    "id_marca": 6,
+    "marca": "Nissan",
+    "vendas": 5,
+    "valor_do_veiculo": 30000,
+    "nome": "March"
+  },
+  {
+    "data_venda": "2022-04-01",
+    "id_marca": 7,
+    "marca": "Mitsubishi",
+    "vendas": 1,
+    "valor_do_veiculo": 124000,
+    "nome": "Eclipse"
+  },
+  {
+    "data_venda": "2022-04-01",
+    "id_marca": 8,
+    "marca": "Subaru",
+    "vendas": 4,
+    "valor_do_veiculo": 320000,
+    "nome": "XV"
+  },
+  {
+    "data_venda": "2022-04-01",
+    "id_marca": 2,
+    "marca": "Volkswagen",
+    "vendas": 1,
+    "valor_do_veiculo": 99000,
+    "nome": "Polo"
+  },
+  {
+    "data_venda": "2022-04-01",
+    "id_marca": 10,
+    "marca": "JaC Motors",
+    "vendas": 1,
+    "valor_do_veiculo": 14000,
+    "nome": "J2"
+  },
+  {
+    "data_venda": "2022-04-01",
+    "id_marca": 11,
+    "marca": "Renault",
+    "vendas": 5,
+    "valor_do_veiculo": 25000,
+    "nome": "Clio"
+  },
+  {
+    "data_venda": "2022-05-01",
+    "id_marca": 1,
+    "marca": "Fiat",
+    "vendas": 50,
+    "valor_do_veiculo": 25000,
+    "nome": "Mobi"
+  },
+  {
+    "data_venda": "2022-05-01",
+    "id_marca": 2,
+    "marca": "Volkswagen",
+    "vendas": 45,
+    "valor_do_veiculo": 29000,
+    "nome": "Up"
+  },
+  {
+    "data_venda": "2022-05-01",
+    "id_marca": 3,
+    "marca": "Kia",
+    "vendas": 35,
+    "valor_do_veiculo": 19000,
+    "nome": "Picanto"
+  },
+  {
+    "data_venda": "2022-05-01",
+    "id_marca": 1,
+    "marca": "Fiat",
+    "vendas": 2,
+    "valor_do_veiculo": 28000,
+    "nome": "argo"
+  },
+  {
+    "data_venda": "2022-05-01",
+    "id_marca": 5,
+    "marca": "Toyota",
+    "vendas": 3,
+    "valor_do_veiculo": 35000,
+    "nome": "Yaris"
+  },
+  {
+    "data_venda": "2022-05-01",
+    "id_marca": 6,
+    "marca": "Nissan",
+    "vendas": 7,
+    "valor_do_veiculo": 22000,
+    "nome": "March"
+  },
+  {
+    "data_venda": "2022-05-01",
+    "id_marca": 2,
+    "marca": "Volkswagen",
+    "vendas": 2,
+    "valor_do_veiculo": 90000,
+    "nome": "T-Cross"
+  },
+  {
+    "data_venda": "2022-05-01",
+    "id_marca": 8,
+    "marca": "Subaru",
+    "vendas": 4,
+    "valor_do_veiculo": 320000,
+    "nome": "Forester"
+  },
+  {
+    "data_venda": "2022-05-01",
+    "id_marca": 9,
+    "marca": "Chevrolet ",
+    "vendas": 3,
+    "valor_do_veiculo": 40000,
+    "nome": "onix"
+  },
+  {
+    "data_venda": "2022-05-01",
+    "id_marca": 10,
+    "marca": "JaC Motors",
+    "vendas": 2,
+    "valor_do_veiculo": 12000,
+    "nome": "J2"
+  },
+  {
+    "data_venda": "2022-05-01",
+    "id_marca": 11,
+    "marca": "Renault",
+    "vendas": 5,
+    "valor_do_veiculo": 18000,
+    "nome": "Clio"
+  },
+  {
+    "data_venda": "2022-06-01",
+    "id_marca": 1,
+    "marca": "Fiat",
+    "vendas": 45,
+    "valor_do_veiculo": 26000,
+    "nome": "Mobi"
+  },
+  {
+    "data_venda": "2022-06-01",
+    "id_marca": 2,
+    "marca": "Volkswagen",
+    "vendas": 35,
+    "valor_do_veiculo": 30000,
+    "nome": "Up"
+  },
+  {
+    "data_venda": "2022-06-01",
+    "id_marca": 3,
+    "marca": "Kia",
+    "vendas": 30,
+    "valor_do_veiculo": 20000,
+    "nome": "Picanto"
+  },
+  {
+    "data_venda": "2022-06-01",
+    "id_marca": 4,
+    "marca": "Peugeot ",
+    "vendas": 20,
+    "valor_do_veiculo": 78000,
+    "nome": "208"
+  },
+  {
+    "data_venda": "2022-06-01",
+    "id_marca": 1,
+    "marca": "Fiat",
+    "vendas": 2,
+    "valor_do_veiculo": 20000,
+    "nome": "Uno"
+  },
+  {
+    "data_venda": "2022-06-01",
+    "id_marca": 6,
+    "marca": "Nissan",
+    "vendas": 3,
+    "valor_do_veiculo": 23000,
+    "nome": "March"
+  },
+  {
+    "data_venda": "2022-06-01",
+    "id_marca": 7,
+    "marca": "Mitsubishi",
+    "vendas": 8,
+    "valor_do_veiculo": 160000,
+    "nome": "Pajero"
+  },
+  {
+    "data_venda": "2022-06-01",
+    "id_marca": 1,
+    "marca": "Fiat",
+    "vendas": 4,
+    "valor_do_veiculo": 80000,
+    "nome": "Cronos"
+  },
+  {
+    "data_venda": "2022-06-01",
+    "id_marca": 9,
+    "marca": "Chevrolet ",
+    "vendas": 8,
+    "valor_do_veiculo": 42000,
+    "nome": "onix"
+  },
+  {
+    "data_venda": "2022-06-01",
+    "id_marca": 10,
+    "marca": "JaC Motors",
+    "vendas": 1,
+    "valor_do_veiculo": 13000,
+    "nome": "J2"
+  },
+  {
+    "data_venda": "2022-06-01",
+    "id_marca": 11,
+    "marca": "Renault",
+    "vendas": 3,
+    "valor_do_veiculo": 80000,
+    "nome": "Sandero RS"
+  },
+  {
+    "data_venda": "2022-07-01",
+    "id_marca": 1,
+    "marca": "Fiat",
+    "vendas": 40,
+    "valor_do_veiculo": 32000,
+    "nome": "Mobi"
+  },
+  {
+    "data_venda": "2022-07-01",
+    "id_marca": 2,
+    "marca": "Volkswagen",
+    "vendas": 35,
+    "valor_do_veiculo": 35000,
+    "nome": "Up"
+  },
+  {
+    "data_venda": "2022-07-01",
+    "id_marca": 3,
+    "marca": "Kia",
+    "vendas": 38,
+    "valor_do_veiculo": 18000,
+    "nome": "Picanto"
+  },
+  {
+    "data_venda": "2022-07-01",
+    "id_marca": 4,
+    "marca": "Peugeot ",
+    "vendas": 6,
+    "valor_do_veiculo": 80000,
+    "nome": "2008"
+  },
+  {
+    "data_venda": "2022-07-01",
+    "id_marca": 5,
+    "marca": "Toyota",
+    "vendas": 20,
+    "valor_do_veiculo": 140000,
+    "nome": "Corolla"
+  },
+  {
+    "data_venda": "2022-07-01",
+    "id_marca": 2,
+    "marca": "Volkswagen",
+    "vendas": 1,
+    "valor_do_veiculo": 120000,
+    "nome": "Jetta"
+  },
+  {
+    "data_venda": "2022-07-01",
+    "id_marca": 7,
+    "marca": "Mitsubishi",
+    "vendas": 3,
+    "valor_do_veiculo": 75000,
+    "nome": "Lancer"
+  },
+  {
+    "data_venda": "2022-07-01",
+    "id_marca": 8,
+    "marca": "Subaru",
+    "vendas": 15,
+    "valor_do_veiculo": 250000,
+    "nome": "WRX"
+  },
+  {
+    "data_venda": "2022-07-01",
+    "id_marca": 9,
+    "marca": "Chevrolet ",
+    "vendas": 3,
+    "valor_do_veiculo": 55000,
+    "nome": "onix"
+  },
+  {
+    "data_venda": "2022-07-01",
+    "id_marca": 10,
+    "marca": "JaC Motors",
+    "vendas": 4,
+    "valor_do_veiculo": 10000,
+    "nome": "J2"
+  },
+  {
+    "data_venda": "2022-07-01",
+    "id_marca": 11,
+    "marca": "Renault",
+    "vendas": 8,
+    "valor_do_veiculo": 35000,
+    "nome": "Duster"
+  },
+  {
+    "data_venda": "2022-08-01",
+    "id_marca": 1,
+    "marca": "Fiat",
+    "vendas": 25,
+    "valor_do_veiculo": 35000,
+    "nome": "Mobi"
+  },
+  {
+    "data_venda": "2022-08-01",
+    "id_marca": 2,
+    "marca": "Volkswagen",
+    "vendas": 20,
+    "valor_do_veiculo": 38000,
+    "nome": "Up"
+  },
+  {
+    "data_venda": "2022-08-01",
+    "id_marca": 3,
+    "marca": "Kia",
+    "vendas": 22,
+    "valor_do_veiculo": 33000,
+    "nome": "Picanto"
+  },
+  {
+    "data_venda": "2022-08-01",
+    "id_marca": 4,
+    "marca": "Peugeot ",
+    "vendas": 10,
+    "valor_do_veiculo": 78000,
+    "nome": "208"
+  },
+  {
+    "data_venda": "2022-08-01",
+    "id_marca": 5,
+    "marca": "Toyota",
+    "vendas": 10,
+    "valor_do_veiculo": 14000,
+    "nome": "Corolla"
+  },
+  {
+    "data_venda": "2022-08-01",
+    "id_marca": 6,
+    "marca": "Nissan",
+    "vendas": 1,
+    "valor_do_veiculo": 22000,
+    "nome": "March"
+  },
+  {
+    "data_venda": "2022-08-01",
+    "id_marca": 7,
+    "marca": "Mitsubishi",
+    "vendas": 3,
+    "valor_do_veiculo": 300000,
+    "nome": "L200"
+  },
+  {
+    "data_venda": "2022-08-01",
+    "id_marca": 2,
+    "marca": "Volkswagen",
+    "vendas": 6,
+    "valor_do_veiculo": 60000,
+    "nome": "Saveiro"
+  },
+  {
+    "data_venda": "2022-08-01",
+    "id_marca": 9,
+    "marca": "Chevrolet ",
+    "vendas": 4,
+    "valor_do_veiculo": 45000,
+    "nome": "onix"
+  },
+  {
+    "data_venda": "2022-08-01",
+    "id_marca": 10,
+    "marca": "JaC Motors",
+    "vendas": 1,
+    "valor_do_veiculo": 12000,
+    "nome": "J2"
+  },
+  {
+    "data_venda": "2022-08-01",
+    "id_marca": 11,
+    "marca": "Renault",
+    "vendas": 4,
+    "valor_do_veiculo": 32000,
+    "nome": "Clio"
+  },
+  {
+    "data_venda": "2022-09-01",
+    "id_marca": 1,
+    "marca": "Fiat",
+    "vendas": 20,
+    "valor_do_veiculo": 34000,
+    "nome": "Mobi"
+  },
+  {
+    "data_venda": "2022-09-01",
+    "id_marca": 2,
+    "marca": "Volkswagen",
+    "vendas": 21,
+    "valor_do_veiculo": 45000,
+    "nome": "Up"
+  },
+  {
+    "data_venda": "2022-09-01",
+    "id_marca": 3,
+    "marca": "Kia",
+    "vendas": 18,
+    "valor_do_veiculo": 35000,
+    "nome": "Picanto"
+  },
+  {
+    "data_venda": "2022-09-01",
+    "id_marca": 4,
+    "marca": "Peugeot ",
+    "vendas": 1,
+    "valor_do_veiculo": 19000,
+    "nome": "307"
+  },
+  {
+    "data_venda": "2022-09-01",
+    "id_marca": 5,
+    "marca": "Toyota",
+    "vendas": 4,
+    "valor_do_veiculo": 120000,
+    "nome": "Corolla"
+  },
+  {
+    "data_venda": "2022-09-01",
+    "id_marca": 6,
+    "marca": "Nissan",
+    "vendas": 2,
+    "valor_do_veiculo": 30000,
+    "nome": "March"
+  },
+  {
+    "data_venda": "2022-09-01",
+    "id_marca": 7,
+    "marca": "Mitsubishi",
+    "vendas": 3,
+    "valor_do_veiculo": 70000,
+    "nome": "Lancer"
+  },
+  {
+    "data_venda": "2022-09-01",
+    "id_marca": 8,
+    "marca": "Subaru",
+    "vendas": 5,
+    "valor_do_veiculo": 240000,
+    "nome": "Brz"
+  },
+  {
+    "data_venda": "2022-09-01",
+    "id_marca": 9,
+    "marca": "Chevrolet ",
+    "vendas": 4,
+    "valor_do_veiculo": 38000,
+    "nome": "onix"
+  },
+  {
+    "data_venda": "2022-09-01",
+    "id_marca": 10,
+    "marca": "JaC Motors",
+    "vendas": 1,
+    "valor_do_veiculo": 10000,
+    "nome": "J2"
+  },
+  {
+    "data_venda": "2022-09-01",
+    "id_marca": 11,
+    "marca": "Renault",
+    "vendas": 1,
+    "valor_do_veiculo": 32000,
+    "nome": "Sandero"
+  },
+  {
+    "data_venda": "2022-10-01",
+    "id_marca": 1,
+    "marca": "Fiat",
+    "vendas": 15,
+    "valor_do_veiculo": 60000,
+    "nome": "Mobi"
+  },
+  {
+    "data_venda": "2022-10-01",
+    "id_marca": 2,
+    "marca": "Volkswagen",
+    "vendas": 17,
+    "valor_do_veiculo": 54000,
+    "nome": "Up"
+  },
+  {
+    "data_venda": "2022-10-01",
+    "id_marca": 3,
+    "marca": "Kia",
+    "vendas": 19,
+    "valor_do_veiculo": 42000,
+    "nome": "Picanto"
+  },
+  {
+    "data_venda": "2022-10-01",
+    "id_marca": 4,
+    "marca": "Peugeot ",
+    "vendas": 6,
+    "valor_do_veiculo": 12000,
+    "nome": "206"
+  },
+  {
+    "data_venda": "2022-10-01",
+    "id_marca": 5,
+    "marca": "Toyota",
+    "vendas": 2,
+    "valor_do_veiculo": 60000,
+    "nome": "Yaris"
+  },
+  {
+    "data_venda": "2022-10-01",
+    "id_marca": 2,
+    "marca": "Volkswagen",
+    "vendas": 2,
+    "valor_do_veiculo": 45000,
+    "nome": "Kombi"
+  },
+  {
+    "data_venda": "2022-10-01",
+    "id_marca": 7,
+    "marca": "Mitsubishi",
+    "vendas": 3,
+    "valor_do_veiculo": 80000,
+    "nome": "Lancer"
+  },
+  {
+    "data_venda": "2022-10-01",
+    "id_marca": 8,
+    "marca": "Subaru",
+    "vendas": 10,
+    "valor_do_veiculo": 360000,
+    "nome": "Forester"
+  },
+  {
+    "data_venda": "2022-10-01",
+    "id_marca": 9,
+    "marca": "Chevrolet ",
+    "vendas": 1,
+    "valor_do_veiculo": 40000,
+    "nome": "onix"
+  },
+  {
+    "data_venda": "2022-10-01",
+    "id_marca": 10,
+    "marca": "JaC Motors",
+    "vendas": 2,
+    "valor_do_veiculo": 14000,
+    "nome": "J2"
+  },
+  {
+    "data_venda": "2022-10-01",
+    "id_marca": 11,
+    "marca": "Renault",
+    "vendas": 6,
+    "valor_do_veiculo": 36000,
+    "nome": "Clio"
+  },
+  {
+    "data_venda": "2022-11-01",
+    "id_marca": 1,
+    "marca": "Fiat",
+    "vendas": 25,
+    "valor_do_veiculo": 64000,
+    "nome": "Mobi"
+  },
+  {
+    "data_venda": "2022-11-01",
+    "id_marca": 2,
+    "marca": "Volkswagen",
+    "vendas": 26,
+    "valor_do_veiculo": 58000,
+    "nome": "Up"
+  },
+  {
+    "data_venda": "2022-11-01",
+    "id_marca": 3,
+    "marca": "Kia",
+    "vendas": 30,
+    "valor_do_veiculo": 46000,
+    "nome": "Picanto"
+  },
+  {
+    "data_venda": "2022-11-01",
+    "id_marca": 4,
+    "marca": "Peugeot ",
+    "vendas": 15,
+    "valor_do_veiculo": 92000,
+    "nome": "208"
+  },
+  {
+    "data_venda": "2022-11-01",
+    "id_marca": 5,
+    "marca": "Toyota",
+    "vendas": 6,
+    "valor_do_veiculo": 158000,
+    "nome": "Corolla"
+  },
+  {
+    "data_venda": "2022-11-01",
+    "id_marca": 6,
+    "marca": "Nissan",
+    "vendas": 3,
+    "valor_do_veiculo": 30000,
+    "nome": "March"
+  },
+  {
+    "data_venda": "2022-11-01",
+    "id_marca": 1,
+    "marca": "Fiat",
+    "vendas": 2,
+    "valor_do_veiculo": 42000,
+    "nome": "Uno"
+  },
+  {
+    "data_venda": "2022-11-01",
+    "id_marca": 3,
+    "marca": "Kia",
+    "vendas": 1,
+    "valor_do_veiculo": 89000,
+    "nome": "Rio"
+  },
+  {
+    "data_venda": "2022-11-01",
+    "id_marca": 9,
+    "marca": "Chevrolet ",
+    "vendas": 5,
+    "valor_do_veiculo": 40000,
+    "nome": "onix"
+  },
+  {
+    "data_venda": "2022-11-01",
+    "id_marca": 10,
+    "marca": "JaC Motors",
+    "vendas": 1,
+    "valor_do_veiculo": 12000,
+    "nome": "J2"
+  },
+  {
+    "data_venda": "2022-11-01",
+    "id_marca": 11,
+    "marca": "Renault",
+    "vendas": 10,
+    "valor_do_veiculo": 42000,
+    "nome": "Clio"
+  },
+  {
+    "data_venda": "2022-12-01",
+    "id_marca": 1,
+    "marca": "Fiat",
+    "vendas": 32,
+    "valor_do_veiculo": 72000,
+    "nome": "Mobi"
+  },
+  {
+    "data_venda": "2022-12-01",
+    "id_marca": 2,
+    "marca": "Volkswagen",
+    "vendas": 24,
+    "valor_do_veiculo": 68000,
+    "nome": "Up"
+  },
+  {
+    "data_venda": "2022-12-01",
+    "id_marca": 3,
+    "marca": "Kia",
+    "vendas": 19,
+    "valor_do_veiculo": 49000,
+    "nome": "Picanto"
+  },
+  {
+    "data_venda": "2022-12-01",
+    "id_marca": 4,
+    "marca": "Peugeot ",
+    "vendas": 1,
+    "valor_do_veiculo": 90000,
+    "nome": "2008"
+  },
+  {
+    "data_venda": "2022-12-01",
+    "id_marca": 5,
+    "marca": "Toyota",
+    "vendas": 3,
+    "valor_do_veiculo": 75000,
+    "nome": "Yaris"
+  },
+  {
+    "data_venda": "2022-12-01",
+    "id_marca": 1,
+    "marca": "Fiat",
+    "vendas": 1,
+    "valor_do_veiculo": 15000,
+    "nome": "Palio"
+  },
+  {
+    "data_venda": "2022-12-01",
+    "id_marca": 7,
+    "marca": "Mitsubishi",
+    "vendas": 5,
+    "valor_do_veiculo": 280000,
+    "nome": "Pajero"
+  },
+  {
+    "data_venda": "2022-12-01",
+    "id_marca": 8,
+    "marca": "Subaru",
+    "vendas": 12,
+    "valor_do_veiculo": 360000,
+    "nome": "Forester"
+  },
+  {
+    "data_venda": "2022-12-01",
+    "id_marca": 3,
+    "marca": "Kia",
+    "vendas": 2,
+    "valor_do_veiculo": 45000,
+    "nome": "Cerato"
+  },
+  {
+    "data_venda": "2022-12-01",
+    "id_marca": 10,
+    "marca": "JaC Motors",
+    "vendas": 1,
+    "valor_do_veiculo": 12000,
+    "nome": "J2"
+  },
+  {
+    "data_venda": "2022-12-01",
+    "id_marca": 11,
+    "marca": "Renault",
+    "vendas": 6,
+    "valor_do_veiculo": 52000,
+    "nome": "Sandero"
+  }
+]
