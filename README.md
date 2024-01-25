@@ -1,25 +1,33 @@
-# Data Extract
+# Projeto Teste Web Analytics - Documentação
+O foco principal é a normalização de arquivos JSON, seguida por uma análise e manipulação dos dados. Todo o desenvolvimento foi realizado em JavaScript, utilizando exclusivamente as bibliotecas nativas do Node.js, sem depender de bibliotecas de terceiros.
 
-O projeto tem como base a normalização de arquivos JSON e após isto uma normalização a partir dos dados obtidos em código, vale ressaltar que para o desenvolvimento do código foi utilizado somente JS e as bibliotecas nativas do node.js, logo não foi utilizado no projeto nenhuma biblioteca terceira.
+## Estrutura do Projeto
+O projeto foi organizado de forma a facilitar a manutenção e compreensão do código. As subpastas desempenham papéis específicos:
 
-## Problema
+common: Armazena variáveis globais utilizadas em diversos pontos do código.
+csv: Contém o CSV gerado para análises posteriores.
+data: Inclui os arquivos JSON originais, os arquivos normalizados e uma cópia do CSV em formato JSON.
+SQL: Contém os scripts SQL para criação e inserção de dados nas tabelas, bem como a unificação dos JSON em uma tabela.
+Utils: Contém funções genéricas reutilizáveis em diferentes partes do código.
+O arquivo principal, index.js, é responsável por executar a lógica necessária para a normalização dos arquivos.
 
-Ao realizar o download do arquivo para JSON, alguns dados foram corrompidos e teve seus caracteres modificados.
+## Lógica do Projeto
+Função main (Arquivo main.js)
+A função main atua como ponto de entrada, coordenando todas as operações necessárias para a normalização dos dados. Ela lida com dois cenários principais:
 
-- Nomes de veículos
-  - Todos os "a" por "æ";
-  - Todos os "o" por "ø";
+Normalização com sucesso:
+Realiza a leitura dos arquivos JSON.
+Inicia logs de aplicação.
+Chama a função que normaliza os dados e os salva.
+Utiliza um bloco try/catch para tratamento de erros.
+Registra logs de sucesso ou falha ao salvar os arquivos.
+Função normalizeData (Arquivo utils/data.js)
+A função normalizeData é a peça central do projeto, responsável pela lógica de normalização dos dados. Recebe um parâmetro data, representando o arquivo lido pela função readFile. A lógica inclui:
 
-- Número de vendas do veículo
-  - Deveria ser do tipo number e virou string. Ex: "vendas": 11 para "vendas": "11";
-
-Após as tratativas o código deve salvar os arquivos normalizados em uma pasta.
-  
-## Entregáveis
-
-[X] Código JS utilizado para corrigir os dados
-[X] Arquivos corrigidos broken_database_1.json e broken_database_2.json
-[X] Código SQL
-[X] Tabela unificada database.csv
-[X] Relatório de vendas.PDF
-[X] Explicação dos códigos.PDF
+Bloco try/catch para tratamento de erros.
+Conversão do JSON em um array de objetos (dataToNormalize).
+Manipulação dos dados para corrigir letras incorretas nas propriedades indicadas em KeysToNormalize.
+Conversão das propriedades listadas em KeysToNumber para números.
+Retorno dos dados normalizados.
+Função saveData (Arquivo utils/data.js)
+A função saveData recebe dados (data) e um nome de arquivo (fileName). Tenta escrever esses dados em um arquivo JSON no sistema de arquivos, lidando com possíveis erros durante o processo.
