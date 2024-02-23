@@ -1,4 +1,4 @@
-# Projeto Teste Web Analytics 
+# Projeto 
 O foco principal é a normalização de arquivos JSON, seguida por uma análise e manipulação dos dados. Todo o desenvolvimento foi realizado em JavaScript, utilizando exclusivamente as bibliotecas nativas do Node.js, sem depender de bibliotecas de terceiros.
 
 ## Estrutura do Projeto
